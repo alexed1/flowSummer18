@@ -1,0 +1,231 @@
+[
+    [
+        "/home/alexed/dev/orgs/summer18/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525319940000,
+            "changeTime": 1525319940000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525319940000,
+            "changeTime": 1525319940000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1525405175000,
+            "changeTime": 1525405175000,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1525319940000,
+            "changeTime": 1525319940000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18",
+        {
+            "state": "n",
+            "sourcePath": "/home/alexed/dev/orgs/summer18",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1525319992000,
+            "changeTime": 1525319992000,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/objects/PartsRequest__c/PartsRequest__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/objects/PartsRequest__c/PartsRequest__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2091,
+            "modifiedTime": 1525405174000,
+            "changeTime": 1525405174000,
+            "contentHash": "c8ff8f4ab24a179146fcd084212ad841f710689e"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/layouts/PartsRequest__c-PartsRequest Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/layouts/PartsRequest__c-PartsRequest Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1525405174000,
+            "changeTime": 1525405174000,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4435,
+            "modifiedTime": 1525405174000,
+            "changeTime": 1525405174000,
+            "contentHash": "9d98ef1634a133b7017cd76b1e048d51b29eea83"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4435,
+            "modifiedTime": 1525405174000,
+            "changeTime": 1525405174000,
+            "contentHash": "9d98ef1634a133b7017cd76b1e048d51b29eea83"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4773,
+            "modifiedTime": 1525405174000,
+            "changeTime": 1525405174000,
+            "contentHash": "2b201ca08dfd118727b15ce6e39d73cf15c77437"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18317,
+            "modifiedTime": 1525405175000,
+            "changeTime": 1525405175000,
+            "contentHash": "6f1581407acc47277347e5a81d0df71c87694f27"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/permissionsets/masterPermissionSet.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/permissionsets/masterPermissionSet.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 216,
+            "modifiedTime": 1525405175000,
+            "changeTime": 1525405175000,
+            "contentHash": "89ef6d42a0d861dc396b36a0c0e9753f93b779ef"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/objects/PartsRequest__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/objects/PartsRequest__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525405174000,
+            "changeTime": 1525405174000,
+            "contentHash": "136427546b0a72a71f7010d1eb176697f90ecc04"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525405174000,
+            "changeTime": 1525405174000,
+            "contentHash": "1714432d41381c773aefe3abf2e174b084b7434f"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525405174000,
+            "changeTime": 1525405174000,
+            "contentHash": "d21a6ba43d36a4c546c85679c706c91ea7b667b7"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1525405175000,
+            "changeTime": 1525405175000,
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+        }
+    ],
+    [
+        "/home/alexed/dev/orgs/summer18/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/home/alexed/dev/orgs/summer18/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1525405175000,
+            "changeTime": 1525405175000,
+            "contentHash": "05404670cfc86469289a78e0584cc5b3ba2a5850"
+        }
+    ]
+]
